@@ -1,0 +1,7 @@
+{
+  "name": "Financial Interviewer",
+  "description": "A realistic, high-pressure job interview simulation with a demanding AI Finance Manager using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
